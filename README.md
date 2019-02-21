@@ -17,6 +17,26 @@ Example Applications
 
 ### Features and Sensors
 
+
+Examples to Review
+- Voltage Regulation & using diodes
+- Using LEDs for debugging and "electrical on & able to function"
+- Using H-Bridges
+- Touch or Bump sensor : "in garage", "in accident so auto-off"
+- Whisker Sensors
+- Photosensors: line following, cliff sensing, following tail-lights, staying away from headlights (head on collisions)
+- Ultrasonic | Rotating Ultrasonic: distances
+- Gyroscope: "where am I"; "have I flipped over";
+- Speaker: sound feedback
+- Raspberry Pi Camera: front and rear for FPV
+- Raspberry Pi Camera: face recognition
+- Raspberry Pi Camera: image detection like street signs
+- Raspberry Pi Camera: line detection like walls, sidewalks, other objects
+
+Textbooks for Information
+- Robot Building for Beginners
+- Intermediate Robot Building
+
 ---
 
 # To Include
